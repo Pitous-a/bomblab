@@ -1,0 +1,7 @@
+A text line is a sequence of ASCII characters.
+1
+2
+3
+4
+5
+6
