@@ -12,8 +12,7 @@
             "MIMode": "gdb",
             "program": "${workspaceRoot}/bomb",
             "args": ["<", "input.txt"],
-            // "cwd": "${workspaceRoot}",
-            "cwd": ".",
+            "cwd": "${workspaceRoot}",
         }
     ]
 }
