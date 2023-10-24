@@ -1,0 +1,1 @@
+read_n_numbers(str 输入,$ebp-0x30地址,int 9)
